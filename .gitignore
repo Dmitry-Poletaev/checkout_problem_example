@@ -1,0 +1,4 @@
+/docker-compose.yml
+logs
+php-fpm
+configs
